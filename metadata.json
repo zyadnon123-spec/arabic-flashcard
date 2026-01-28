@@ -1,0 +1,9 @@
+
+{
+  "name": "أنكي العرب (Anki Arab)",
+  "description": "نظام تعليمي متقدم يعتمد على التكرار المتباعد (Spaced Repetition) لتعزيز الذاكرة طويلة المدى، مع تطبيق دقيق لخوارزمية SM-2 وواجهة عربية بالكامل.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
